@@ -1,0 +1,4 @@
+NAME		HEIGHT	WEIGHT
+Amal		123.45	45.00
+Vishnu		121.23	46.00
+Arjun		124.45	35.00

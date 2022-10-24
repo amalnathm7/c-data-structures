@@ -1,0 +1,6 @@
+NAME		HEIGHT	WEIGHT
+Vishnu		121.23	46.00
+Amal		123.45	45.00
+Arjun		124.45	35.00
+
+Time taken = 0.000001
